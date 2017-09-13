@@ -6,9 +6,14 @@ For more information, see: [https://law.mit.edu/MITLegalForum](https://law.mit.e
 
 ## MIT Legal Forum Meetings, Events and Activities
 
-During the fall semester of 2017, the MIT Legal Forum is hosting small discussion groups on key technology topics and is convening a full scale conference on AI and Blockchain" at the MIT Media Lab on October 30 + 31, 2017.  
+MIT Media Lab will host the "MIT Legal Forum on AI and Blockchain" applied innovation conference on October 30 + 31, 2017. For more information on this event, see: MIT.edu/Law 
 
-Relevant projects or research by students and area professionals auditing the MIT Media Lab's fall 2017 "Future Law" graduate seminar will also presented and discussed as part of MIT Legal Forum events and activities. 
+During the 2017 fall semester, two MIT Legal Forum small group discussions are also meeting periodically to explore, respectively, "Blockchain, Distributed Ledger and Trust Networks" and "AI, Computational and Autonomous Systems" in the context of law and legal processes.  
+
+Relevant projects and research by students and Boston-area professionals in the MIT Media Lab's "Future Law" fall 2017 graduate seminar will also be presented and discussed as part of MIT Legal Forum events and activities.  
+
+Online options to support more robust and ongoing discussion and collaboration are also being developed.  
+
 
 ## Open Access to Key Knowledge, Tools and Practices
 
