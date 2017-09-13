@@ -30,5 +30,5 @@ Interested to follow along from afar? Want to grab an oar and help us row? This 
 
 
 * **Back to the [MIT Legal Forum Discussion Groups Page](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups)**
-* **Back to the [MIT Legal Forum Information Page](https://law.mit.edu/MITLegalForum)**
+* **Back to the [MIT Legal Forum Information Page](https://mitmedialab.github.io/MITLegalForum)**
 
