@@ -21,7 +21,7 @@ The MIT Legal Forum is structured around open and public information sharing mod
 
 Specifically, the form-based workflow for requesting an invitation to participate has been engineered to ensure Creative Commons license terms apply by default to all content shared at any MIT Legal Forum event or activity.  Likewise, any software, scripts, computer code or other data shared as part of an MIT Legal Forum event or activity must be submitted to a GitHub code repository situated under the MIT Media Lab's GitHub organization to ensure open source license terms apply by default (eg GitHub.com/MITMediaLab/MITLegalForum) 
 
-These information sharing models are intended to ensure any person or team applying technology to innovate the law and legal processes has instant and continuing access to all the insightful ideas, timely questions, important issues and creative solutions shared through the MIT Legal Forum. 
+These information sharing models are intended to ensure any person or team applying technology to innovate the law and legal processes has instant and continuing access to all the insightful ideas, timely questions, important issues and creative solutions and other relevant information shared through the MIT Legal Forum. 
 
 ## Participation in MIT Legal Forum Events and Activities
 
