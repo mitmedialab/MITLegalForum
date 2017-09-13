@@ -1,8 +1,8 @@
 # The MIT Legal Forum
 
-The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.  
+**The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.**
 
-For more information, see: [https://mitmedialab.github.io/MITLegalForum](https://mitmedialab.github.io/MITLegalForum)
+For more information, see: [https://law.mit.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)
 
 ## MIT Legal Forum Meetings, Events and Activities
 
@@ -20,8 +20,8 @@ These information sharing models are intended to ensure any person or team apply
 
 ## Participation in MIT Legal Forum Events and Activities
 
-Participation in MIT Legal Forum events and activities is by invitation-only and space is limited at in-person meetings and events.  Invitation to participation online (individually or as part of gatherings in "Local Network Venue" locations) may be offered for some activities and events. Some invitations to attend in-person are reserved for MIT students, faculty and staff and for Volunteer Contributors.
+Participation in MIT Legal Forum events and activities is by invitation-only.  Physical space for in-person attendance is limited, however, invitation to participate online may be offered for some activities and events.  Opportunities to join gatherings at MIT Legal Forum "Local Network Venue" locations may also be available.
 
-* Research Lab Page: [https://Law.MIT.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)
-* 2017 October 30+31 MIT Legal Forum on AI & Blockchain: [MIT.edu/Law](http://mit.edu/law)
-* Request Invitation to Participate in MIT Legal Forum Activities: 
+In addition, a small reserve of invitations for in-person attendance are available on a priority basis for current MIT students, faculty and staff and for Volunteer Contributors.  
+
+Request an invitation to participate in the MIT Legal Forum at the form embedded at [https://law.mit.edu/MITLegalForum](https://law.mit.edu/MITLegalForum) and available at: [https://goo.gl/forms/hgLhBbJ29Or2Y7UA2](https://goo.gl/forms/hgLhBbJ29Or2Y7UA2)
