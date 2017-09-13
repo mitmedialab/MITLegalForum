@@ -8,7 +8,7 @@
 ## MIT Legal Forum Meetings, Events and Activities
 
 **The "MIT Legal Forum on AI and Blockchain"** on October 30 + 31, 2017 is an applied innovation conference at the MIT Media Lab. 
-* For more information on this event, see: [MIT.edu/Law](https://mit.edu/law)
+* For more information on this event, see: [MIT.edu/Law](http://mit.edu/law)
 
 **MIT Legal Forum small group discussions** meet periodically to explore [key legal issues, options and opportunities arising from rapid adoption of advanced technologies](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups). 
 * For more information on the "Blockchain, Distributed Ledger and Authoritative Systems" Legal Discussion Group see: [https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/Blockchain-Group.html](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/Blockchain-Group.html)
