@@ -23,9 +23,11 @@
 
 The MIT Legal Forum is structured around open and public information sharing models to enable the rapid and large scale diffusion of relevant knowledge, tools and practices.  These open public information sharing models are intended to effectively catalyze and efficiently fuel a beneficial and systemic transformation of law and legal processes.
 
-Specifically, the form-based workflow for requesting an invitation to participate has been engineered to ensure Creative Commons license terms apply by default to all content shared at any MIT Legal Forum event or activity.  Likewise, any software, scripts, computer code or other data shared as part of an MIT Legal Forum event or activity must be submitted to a GitHub code repository situated under the MIT Media Lab's GitHub organization to ensure open source license terms apply by default (eg GitHub.com/MITMediaLab/MITLegalForum) 
+Specifically, the form-based workflow for requesting an invitation to participate has been engineered to ensure Creative Commons license terms apply by default to all content shared at any MIT Legal Forum event or activity.  Likewise, any software, scripts, computer code or other data shared as part of an MIT Legal Forum event or activity must be submitted to a GitHub code repository situated under the MIT Media Lab's GitHub organization to ensure open source license terms apply by default.  
 
 These information sharing models are intended to ensure any person or team applying technology to innovate the law and legal processes has instant and continuing access to all the insightful ideas, timely questions, important issues and creative solutions and other relevant information shared through the MIT Legal Forum. 
+
+More information on these and other methods for maintaining adherence to open public information sharing while successfully engaging a range of effective participants on law and technology can be found at: [Law.MIT.edu/Contribute](https://Law.MIT.edu/Contribute)
 
 ## Participation in MIT Legal Forum Events and Activities
 
