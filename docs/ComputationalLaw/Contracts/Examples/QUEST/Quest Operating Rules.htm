@@ -1,0 +1,723 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0074)http://ebt.nacha.org/Quest/Quest_Operating_Rules/quest_operating_rules.htm -->
+<HTML><HEAD><TITLE>Quest Operating Rules</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=ISO-8859-1">
+<SCRIPT>
+<!--
+var F_A,F_B,F_CH,F_CL,F_DB,F_E,F_F,F_L,F_MT,F_MV,F_R,F_SE,F_SU,F_U,F_HR,F_MU,F_MD;
+function F_e(){} function F_n(){} function F_onLoaded(){}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript1.2>
+<!--
+document.write("<SCRIPT SRC=\"../../script.js\"><\/SCRIPT>");
+document.write("<SCRIPT SRC=\"../../effects.js\"><\/SCRIPT>");
+//-->
+</SCRIPT>
+
+<SCRIPT>
+<!--
+function F_doLoaded() {
+	document.main = new F_cMain();
+	document.objectModel = new Object();
+	F_OM('Layout','LayoutLYR', 'doc', '', new Array());
+	F_OM('Picture308' , 'Picture308LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture308','Set Image',F_Parm('Image 1 (Normal)','../../home.gif','Image 2 (Highlighted)','../../home2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture308','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture308','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../default.htm',0),'',0);
+	F_OM('Picture309' , 'Picture309LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture309','Set Image',F_Parm('Image 1 (Normal)','../../QuestButton.gif','Image 2 (Highlighted)','../../QuestButton2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture309','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture309','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../Quest/quest.htm',0),'',0);
+	F_OM('Picture310' , 'Picture310LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture310','Set Image',F_Parm('Image 1 (Normal)','../../NachaHome.gif','Image 2 (Highlighted)','../../NachaHome2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture310','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture310','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','http://nacha.org',0),'',0);
+	F_OM('Picture311' , 'Picture311LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture311','Set Image',F_Parm('Image 1 (Normal)','../../generalinfo.gif','Image 2 (Highlighted)','../../generalinfo2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture311','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture311','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../General_Information/general_information.htm',0),'',0);
+	F_OM('Picture318' , 'Picture318LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture318','Set Image',F_Parm('Image 1 (Normal)','../../publications2.gif','Image 2 (Highlighted)','../../publications.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture318','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture318','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','http://pubs.nacha.org/',0),'',0);
+	F_OM('Picture313' , 'Picture313LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture313','Set Image',F_Parm('Image 1 (Normal)','../../ebtmembers.gif','Image 2 (Highlighted)','../../ebtmembers2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture313','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture313','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../General_Information/EBT_Members/ebt_members.htm',0),'',0);
+	F_OM('Picture314' , 'Picture314LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture314','Set Image',F_Parm('Image 1 (Normal)','../../contact.gif','Image 2 (Highlighted)','../../contact2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture314','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture314','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../General_Information/Contact_EBT/contact_ebt.htm',0),'',0);
+	F_OM('Picture317' , 'Picture317LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture317','Set Image',F_Parm('Image 1 (Normal)','../../Membersonly.gif','Image 2 (Highlighted)','../../Membersonly2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture317','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture317','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../Members_Only/members_only.htm',0),'',0);
+	F_OM('Picture319' , 'Picture319LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture319','Set Image',F_Parm('Image 1 (Normal)','../../links.gif','Image 2 (Highlighted)','../../links2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture319','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture319','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../Related_Links/related_links.htm',0),'',0);
+	F_OM('Picture320' , 'Picture320LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture320','Set Image',F_Parm('Image 1 (Normal)','../../surveybutton.gif','Image 2 (Highlighted)','../../surveybutton2.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture320','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture320','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../Survey_Results/survey_results.htm',0),'',0);
+	F_OM('Picture322' , 'Picture322LYR', 'img', 'Layout',new Array(
+	'Page Loaded','Picture322','Set Image',F_Parm('Image 1 (Normal)','../../RFI-RFP.gif','Image 2 (Highlighted)','../../RFI-RFP_over.gif','Image 3 (Depressed)','','Image 4 (Selected)','','Image 5','','Image 6','','Image 7','','Image 8','','Image 9','','Image 10',''),0,
+	'Mouse Over','Picture322','Use Image','Image 2 (Highlighted)',0,
+	'Mouse Out','Picture322','Use Image','Image 1 (Normal)',0,
+	'Clicked','Layout','Go To','../../RFI-RFP/rfi-rfp.htm',0),'',0);
+	F_pageLoaded('Layout');
+}
+//-->
+</SCRIPT>
+<NOLAYER>
+<STYLE id=NOF_STYLE_SHEET>DIV#LayoutLYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; POSITION: absolute; TOP: 0px
+}
+DIV#Picture308LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture309LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture310LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture311LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture318LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture313LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture314LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture317LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture319LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture320LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+DIV#Picture322LYR {
+	Z-INDEX: 1; LEFT: 0px; VISIBILITY: inherit; WIDTH: 120px; POSITION: relative; TOP: 0px; HEIGHT: 30px
+}
+</STYLE>
+</NOLAYER>
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR></HEAD>
+<BODY text=#000000 link=#336699 bgColor=#ffffff 
+background="Quest Operating Rules_files/background31.gif" onload=F_onLoaded(); 
+NOF="(MB=(Ebtmaster, 144, 138, 120, 202), L=(QuestOperatingRulesLayout, 605, 1040))">
+<DIV id=LayoutLYR><LAYER id=LayoutLYR Z-INDEX="1" HEIGHT="1322" WIDTH="927" 
+VISIBILITY="INHERIT" LEFT="0" TOP="0">
+<TABLE cellSpacing=0 cellPadding=0 border=0 NOF="LY">
+  <TBODY>
+  <TR vAlign=top align=left>
+    <TD vAlign=center align=middle width=120 rowSpan=3><IMG id=Picture304 
+      height=115 alt="" src="Quest Operating Rules_files/Logo01a.gif" width=120 
+      border=0></TD>
+    <TD vAlign=center align=middle width=401 colSpan=5 rowSpan=3><IMG 
+      id=Picture305 height=115 alt="" 
+      src="Quest Operating Rules_files/Logo01b.gif" width=401 border=0></TD>
+    <TD colSpan=8 height=12></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=2></TD>
+    <TD width=194 colSpan=6>
+      <TABLE id=Table3 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=194 height=80>
+            <P align=center><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B>Next 
+            Council Meeting<BR></B>October 7 &amp; 8<BR>Brown Palace 
+            Hotel;<BR>Denver, Colorado<BR></FONT><A 
+            href="http://ebt.nacha.org/ebt-meetinginfo/ebt-meetinginfo.html"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-2><U>Information</U></FONT></A><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-2> | 
+            Schedule | </FONT><A 
+            href="http://ebt.nacha.org/ebt-meetinginfo/Register/register.htm"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-2><U>Register</U></FONT></A><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-2> 
+            <BR>Meeting Materials | Agenda</FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=8 height=9></TD></TR>
+  <TR vAlign=top align=left>
+    <TD vAlign=center align=middle width=120 height=5><IMG id=Picture303 
+      height=5 alt="" src="Quest Operating Rules_files/crossbar_a.gif" width=120 
+      border=0></TD>
+    <TD vAlign=center align=middle width=405 colSpan=6><IMG id=Picture286 
+      height=5 alt="" src="Quest Operating Rules_files/crossbar.gif" width=405 
+      border=0></TD>
+    <TD vAlign=center align=middle width=200 colSpan=7><IMG id=Picture306 
+      height=5 alt="" src="Quest Operating Rules_files/crossbar_rt.gif" 
+      width=200 border=0></TD></TR>
+  <TR vAlign=top align=left>
+    <TD height=24></TD>
+    <TD width=5><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=5 border=0></TD>
+    <TD width=35><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=35 border=0></TD>
+    <TD width=5><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=5 border=0></TD>
+    <TD width=20><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=20 border=0></TD>
+    <TD width=336><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=336 border=0></TD>
+    <TD width=4><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=4 border=0></TD>
+    <TD width=6><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=6 border=0></TD>
+    <TD width=106><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=106 border=0></TD>
+    <TD width=25><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=25 border=0></TD>
+    <TD width=23><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=23 border=0></TD>
+    <TD width=23><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=23 border=0></TD>
+    <TD width=1><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=1 border=0></TD>
+    <TD width=16><IMG height=1 alt="" 
+      src="Quest Operating Rules_files/clearpixel.gif" width=16 border=0></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=3 height=22></TD>
+    <TD width=525 colSpan=8 rowSpan=2>
+      <P align=center><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1></FONT><A href="http://ebt.nacha.org/Quest/quest.htm#juris"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+      href="http://ebt.nacha.org/Quest/quest.htm#juris"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+      href="http://ebt.nacha.org/Quest/quest.htm#juris"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+      href="http://ebt.nacha.org/Quest/quest.htm#juris"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><U>Participating Quest ® Jurisdictions</U></B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><BR></B></FONT><A 
+      href="http://ebt.nacha.org/Quest/Quest_Operating_Rules/quest_operating_rules.htm"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B><U>Quest ® 
+      Operating Rules - May 2002</U> </B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><BR></B></FONT><A 
+      href="http://ebt.nacha.org/Quest/Amendments/amendments.htm"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B><U>Amendments 
+      to the Rules</U> </B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><BR></B></FONT><A 
+      href="http://ebt.nacha.org/Quest/GraphicsAmendments/graphicsamendments.htm"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B><U>Quest ® 
+      Graphics Standards Manual Amendments</U></B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><BR></B></FONT><A 
+      href="http://ebt.nacha.org/Quest/BINs/bins.html"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B><U>BINS and 
+      PAN Lengths for EBT</U></B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><BR></FONT><A 
+      href="http://ebt.nacha.org/Quest/Proposed_Amendments/proposed_amendments.htm"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1><B><U>Proposed 
+      Amendments</U></B></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1><B><BR></B></FONT><B></B><A 
+      href="http://ebt.nacha.org/Quest/Agreement_Process/agreement_process.htm"><B><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif color=#336699 
+      size=-1><U>Quest Agreements Process</U></FONT> </B></A><BR>&nbsp;</P></TD>
+    <TD colSpan=3></TD></TR>
+  <TR vAlign=top align=left>
+    <TD width=120 rowSpan=5>
+      <TABLE id=Table8 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width=120 height=35>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><IMG id=Picture307 height=35 alt="" hspace=0 
+            src="Quest Operating Rules_files/top.gif" width=120 align=top 
+            border=0></FONT></P></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture308LYR><ILAYER id=Picture308LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture308', F_MV))" 
+            onclick="return(F_e('Picture308', F_CL))" 
+            onmouseout="return(F_e('Picture308', F_MT))" 
+            href="http://ebt.nacha.org/default.htm"><IMG id=Picture308 height=30 
+            alt="" hspace=0 src="Quest Operating Rules_files/home.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120 height=30>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture309LYR><ILAYER id=Picture309LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture309', F_MV))" 
+            onclick="return(F_e('Picture309', F_CL))" 
+            onmouseout="return(F_e('Picture309', F_MT))" 
+            href="http://ebt.nacha.org/Quest/quest.htm"><IMG id=Picture309 
+            height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/QuestButton.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture310LYR><ILAYER id=Picture310LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture310', F_MV))" 
+            onclick="return(F_e('Picture310', F_CL))" 
+            onmouseout="return(F_e('Picture310', F_MT))" 
+            href="http://nacha.org/"><IMG id=Picture310 height=30 alt="" 
+            hspace=0 src="Quest Operating Rules_files/NachaHome.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture311LYR><ILAYER id=Picture311LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture311', F_MV))" 
+            onclick="return(F_e('Picture311', F_CL))" 
+            onmouseout="return(F_e('Picture311', F_MT))" 
+            href="http://ebt.nacha.org/General_Information/general_information.htm"><IMG 
+            id=Picture311 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/generalinfo.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture318LYR><ILAYER id=Picture318LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture318', F_MV))" 
+            onclick="return(F_e('Picture318', F_CL))" 
+            onmouseout="return(F_e('Picture318', F_MT))" 
+            href="http://pubs.nacha.org/"><IMG id=Picture318 height=30 alt="" 
+            hspace=0 src="Quest Operating Rules_files/publications2.gif" 
+            width=120 align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture313LYR><ILAYER id=Picture313LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture313', F_MV))" 
+            onclick="return(F_e('Picture313', F_CL))" 
+            onmouseout="return(F_e('Picture313', F_MT))" 
+            href="http://ebt.nacha.org/General_Information/EBT_Members/ebt_members.htm"><IMG 
+            id=Picture313 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/ebtmembers.gif" width=120 align=top 
+            border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture314LYR><ILAYER id=Picture314LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture314', F_MV))" 
+            onclick="return(F_e('Picture314', F_CL))" 
+            onmouseout="return(F_e('Picture314', F_MT))" 
+            href="http://ebt.nacha.org/General_Information/Contact_EBT/contact_ebt.htm"><IMG 
+            id=Picture314 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/contact.gif" width=120 align=top 
+            border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture317LYR><ILAYER id=Picture317LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture317', F_MV))" 
+            onclick="return(F_e('Picture317', F_CL))" 
+            onmouseout="return(F_e('Picture317', F_MT))" 
+            href="http://ebt.nacha.org/Members_Only/members_only.htm"><IMG 
+            id=Picture317 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/Membersonly.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120 height=30>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture319LYR><ILAYER id=Picture319LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture319', F_MV))" 
+            onclick="return(F_e('Picture319', F_CL))" 
+            onmouseout="return(F_e('Picture319', F_MT))" 
+            href="http://ebt.nacha.org/Related_Links/related_links.htm"><IMG 
+            id=Picture319 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/links.gif" width=120 align=top 
+            border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120 height=16>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture320LYR><ILAYER id=Picture320LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture320', F_MV))" 
+            onclick="return(F_e('Picture320', F_CL))" 
+            onmouseout="return(F_e('Picture320', F_MT))" 
+            href="http://ebt.nacha.org/Survey_Results/survey_results.htm"><IMG 
+            id=Picture320 height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/surveybutton.gif" width=120 
+            align=top border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></P>
+            <DIV id=Picture322LYR><ILAYER id=Picture322LYR Z-INDEX="1" 
+            HEIGHT="30" WIDTH="120" VISIBILITY="INHERIT"><A 
+            onmouseover="return(F_e('Picture322', F_MV))" 
+            onclick="return(F_e('Picture322', F_CL))" 
+            onmouseout="return(F_e('Picture322', F_MT))" 
+            href="http://ebt.nacha.org/RFI-RFP/rfi-rfp.htm"><IMG id=Picture322 
+            height=30 alt="" hspace=0 
+            src="Quest Operating Rules_files/RFI-RFP.gif" width=120 align=top 
+            border=0></A></ILAYER></DIV></FONT></TD></TR>
+        <TR>
+          <TD width=120>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><IMG id=Picture321 height=35 alt="" hspace=0 
+            src="Quest Operating Rules_files/Bottom.gif" width=120 align=top 
+            border=0></FONT></P></TD></TR></TBODY></TABLE></TD>
+    <TD colSpan=2 height=106></TD>
+    <TD colSpan=3></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=13 height=2></TD></TR>
+  <TR vAlign=top align=left>
+    <TD></TD>
+    <TD width=583 colSpan=10>
+      <P align=center><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1></FONT><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      color=#336699 size=-1><B>Quest Operating Rules</B></FONT><B></B></P>
+      <P align=center><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1>The entire rules book can be downloaded, or download by 
+      chapter<BR><B>BY DOWNLOADING THESE DOCUMENTS YOU AGREE NOT TO ALTER OR 
+      MODIFY THE CONTENTS IN ANY WAY</B></FONT><B></B></P></TD>
+    <TD colSpan=2></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=13 height=7></TD></TR>
+  <TR vAlign=top align=left>
+    <TD height=202></TD>
+    <TD width=584 colSpan=11 rowSpan=2>
+      <TABLE id=Table11 cellSpacing=1 cellPadding=1 width="100%" border=1>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Entire 
+            Rules Book</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT>&nbsp;</P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/1.4_May_2002.pdf"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>Introduction</FONT></P>
+            <UL>
+              <LI><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+              size=-1>Definitions Chapter </FONT></LI></UL></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>1</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 1: 
+            Issuer Requirements</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>9</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 2: 
+            Card Specifications</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>13</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 3: 
+            Acquirer and Terminal Operator Requirements</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>15</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 4: 
+            Merchant Agreement Requirements</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>26</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/Chapter_4.PDF"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 5: 
+            Error Resolution</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>29</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/Chapter_5.PDF"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 6: 
+            Settlement</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>45</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 7: 
+            Third Party Service Provider Requirements</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>45</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 8: 
+            Arbitration and Grievance Procedures, Assessments</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>47</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 9: 
+            Security</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>50</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 
+            10: Liabilities and Indemnification</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>57</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 
+            11: Licensing of the QUEST Mark</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>58</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/Chapter_11.pdf"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Chapter 
+            12: Miscellaneous</FONT></P></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>60</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR>
+        <TR>
+          <TD width=420>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>Appendix I: Charter of the EBT Council </FONT></P></TD>
+          <TD>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT>&nbsp;</P></TD>
+          <TD width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1>Download 
+            PDF</FONT></P></TD></TR>
+        <TR>
+          <TD width=420 height=17>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>Appendix II: Form of Issuer Participation Agreement 
+            </FONT></P></TD>
+          <TD>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT>&nbsp;</P></TD>
+          <TD width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/IPA_revised.PDF"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD width=420>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>Appendix III: EBT Security Compliance Review</FONT></P></TD>
+          <TD>
+            <P><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT>&nbsp;</P></TD>
+          <TD width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-1></FONT><A 
+            href="http://ebt.nacha.org/docs/Appendix_Three.pdf"><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A> </P></TD></TR>
+        <TR>
+          <TD vAlign=top align=left width=420>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>Guidelines</FONT></P>
+            <UL>
+              <LI><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+              size=-1>Guidelines for Including Programs Under the Quest 
+              Operating Rules </FONT></LI></UL></TD>
+          <TD vAlign=top align=left width=41>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1>73</FONT></P></TD>
+          <TD vAlign=top align=left width=105>
+            <P align=left><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1></FONT><FONT 
+            face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+            size=-1><U>Download PDF</U></FONT></A></P></TD></TR></TBODY></TABLE></TD>
+    <TD></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=2 height=285></TD>
+    <TD></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=14 height=349></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=4 height=30></TD>
+    <TD vAlign=center width=497 colSpan=6>
+      <HR id=HRRule1 width=497 SIZE=1>
+    </TD>
+    <TD colSpan=4></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=14 height=6></TD></TR>
+  <TR vAlign=top align=left>
+    <TD colSpan=5></TD>
+    <TD width=452 colSpan=4>
+      <P align=center><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1></FONT><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-2>Copyright © 2003 NACHA-The Electronic Payments 
+      Association<BR>Please direct all&nbsp; inquiries into NACHA to </FONT><A 
+      href="mailto:info@nacha.org"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-2><U>info@nacha.org</U></FONT></A><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-2><BR>Site 
+      Maintained by </FONT><A href="http://www.guavainteractive.com/"><FONT 
+      face=Arial,Helvetica,Geneva,Sans-serif,sans-serif size=-2><U>Guava 
+      Interactive, LLC</U></FONT></A> </P>
+      <P align=center><FONT face=Arial,Helvetica,Geneva,Sans-serif,sans-serif 
+      size=-1></FONT>&nbsp;</P></TD>
+    <TD colSpan=5></TD></TR></TBODY></TABLE></LAYER></DIV></BODY></HTML>

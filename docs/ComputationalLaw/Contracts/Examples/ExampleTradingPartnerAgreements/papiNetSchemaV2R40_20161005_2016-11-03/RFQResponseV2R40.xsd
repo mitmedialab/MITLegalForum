@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.papinet.org/v2r40" xmlns:pn="http://www.papinet.org/v2r40" xmlns:xs="http://www.w3.org/2001/XMLSchema"  targetNamespace="http://www.papinet.org/v2r40" elementFormDefault="qualified" attributeFormDefault="unqualified" version="V2R40_20161005">
+	<xs:annotation>
+		<xs:documentation>
+			Copyright 2000-2016  papiNet G.I.E (papiNet) and International Digital Enterprise Alliance, Inc. 
+			(IDEAlliance), collectively Copyright Owner. All rights reserved by the Copyright Owner 
+			under the laws of the United States, Belgium, the European Economic Community, 
+			and all states, domestic and foreign. For support, more information, or to report 
+			implementation bugs, please contact papiNet at www.papiNet.org.
+		</xs:documentation>
+	</xs:annotation>
+<xs:include schemaLocation="papiNetCommonDefsV2R40.xsd"/>
+	<xs:element name="RFQResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="RFQResponseHeader"/>
+				<xs:element ref="RFQResponseLineItem" maxOccurs="unbounded"/>
+				<xs:element ref="MonetaryAdjustment" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="RFQResponseSummary"/>
+			</xs:sequence>
+			<xs:attribute name="RFQResponseStatusType" type="rFQResponseStatusType" use="required"/>
+			<xs:attribute name="Language" type="languageType" default="eng"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

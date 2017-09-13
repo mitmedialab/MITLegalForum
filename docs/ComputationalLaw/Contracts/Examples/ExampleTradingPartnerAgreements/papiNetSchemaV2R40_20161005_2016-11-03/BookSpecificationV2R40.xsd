@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.papinet.org/v2r40" xmlns:pn="http://www.papinet.org/v2r40" xmlns:xs="http://www.w3.org/2001/XMLSchema"  targetNamespace="http://www.papinet.org/v2r40" elementFormDefault="qualified" attributeFormDefault="unqualified" version="V2R40_20161005">
+	<xs:annotation>
+		<xs:documentation>
+			Copyright 2000-2016  papiNet G.I.E (papiNet) and International Digital Enterprise Alliance, Inc. 
+			(IDEAlliance), collectively Copyright Owner. All rights reserved by the Copyright Owner 
+			under the laws of the United States, Belgium, the European Economic Community, 
+			and all states, domestic and foreign. For support, more information, or to report 
+			implementation bugs, please contact papiNet at www.papiNet.org.
+		</xs:documentation>
+	</xs:annotation>
+<xs:include schemaLocation="papiNetCommonDefsV2R40.xsd"/>
+	<xs:element name="BookSpecification">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="SpecGeneral"/>
+				<xs:element ref="SpecComponent" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="SpecAssembly" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="SpecBinding" minOccurs="0"/>
+				<xs:element ref="SpecPacking" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="SpecType" type="bookSpecificationType"/>
+			<xs:attribute name="SpecStatusType" type="bookSpecificationStatusType"/>
+			<xs:attribute name="NASTA" type="yesNo" default="No"/>
+			<xs:attribute name="Secure" type="yesNo" default="No"/>
+			<xs:attribute name="ChildrensTitle" type="childrensTitle"/>
+			<xs:attribute name="Reissued" type="yesNo"/>
+			<xs:attribute name="Language" type="languageType" default="eng"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
