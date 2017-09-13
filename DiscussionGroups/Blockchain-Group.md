@@ -1,9 +1,3 @@
-
-
-
-* Discussion Group Page: [DiscussionGroups/Blockchain-Group.md](https://github.com/mitmedialab/MITLegalForum/blob/master/DiscussionGroups/Blockchain-Group.md)
-
-
 # MIT Legal Discussion Group on Blockchain
 
 This MIT Legal Forum small group discussion focuses on **"Blockchain, Distributed Ledgers and Authoritative Systems"** in the context of law and legal processes.
