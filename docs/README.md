@@ -6,14 +6,17 @@ For more information, see: [https://law.mit.edu/MITLegalForum](https://law.mit.e
 
 ## MIT Legal Forum Meetings, Events and Activities
 
-MIT Media Lab will host the "MIT Legal Forum on AI and Blockchain" applied innovation conference on October 30 + 31, 2017. For more information on this event, see: MIT.edu/Law 
+**The "MIT Legal Forum on AI and Blockchain"** on October 30 + 31, 2017 is an applied innovation conference at the MIT Media Lab. 
+* For more information on this event, see: MIT.edu/Law 
 
-During the 2017 fall semester, two MIT Legal Forum small group discussions are also meeting periodically to explore, respectively, "Blockchain, Distributed Ledger and Trust Networks" and "AI, Computational and Autonomous Systems" in the context of law and legal processes.  
+**MIT Legal Forum small group discussions** meet periodically to explore key legal issues, options and opportunities arising from rapid adoption of advanced technologies. 
+* For more information on the "Blockchain, Distributed Ledger and Authoritative Systems" Legal Discussion Group see: [https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/Blockchain-Group.html](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/Blockchain-Group.html)
+* For more information on the "AI, Computational and Autonomous Systems" Legal Discussion Group see: [https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/AI-Group.html](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/AI-Group.html)
 
-Relevant projects and research by students and Boston-area professionals in the MIT Media Lab's "Future Law" fall 2017 graduate seminar will also be presented and discussed as part of MIT Legal Forum events and activities.  
+**MIT Media Lab's "Future Law" fall 2017 graduate seminar** class projects and research by students and Boston-area professionals will also be presented and discussed as part of MIT Legal Forum events and activities.  
+* For more information on the Future Law MIT graduate seminar, see: [http://futurelawmit.org](http://futurelawmit.org)
 
-Online options to support more robust and ongoing discussion and collaboration are also being developed.  
-
+**Online participation tools** to support more robust and ongoing discussion and collaboration are also being developed.  
 
 ## Open Access to Key Knowledge, Tools and Practices
 
