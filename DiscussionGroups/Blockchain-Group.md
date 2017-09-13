@@ -25,3 +25,8 @@ The intention is that downstream implications of design-phase decisions will bec
 ## This is literally a process of "evidence-based" requirements gathering.
 
 Interested to follow along from afar? Want to grab an oar and help us row? This activity is being pursued as a participatory collaborative event series that is free and open to the public. To request an invitation to be a Participant or Volunteer Contributor of this discussion group, use the request form embedded at [Law.MIT.edu/MITLegalForum](https://law.mit.edu/MITLegalForum) and available here: [https://goo.gl/forms/hgLhBbJ29Or2Y7UA2](https://goo.gl/forms/hgLhBbJ29Or2Y7UA2)
+
+-------------------------------
+
+**Back to the Discussion Groups Page:** [DiscussionGroups/Blockchain-Group.md](https://github.com/mitmedialab/MITLegalForum/blob/master/DiscussionGroups/Blockchain-Group.md)
+
