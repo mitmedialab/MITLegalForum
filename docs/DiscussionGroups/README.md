@@ -12,8 +12,6 @@
 * Discussion Group Page: [DiscussionGroups/AI-Group.md](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups/AI-Group.html)
 
 
-
 ------------------------------------------
 
-
-**Back to the [MIT Human Dynamics Lab](http://hd.media.mit.edu) research page for the MIT Legal Forum: [Law.MIT.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)**
+* **Back to the [MIT Legal Forum Information Page](https://mitmedialab.github.io/MITLegalForum)**
