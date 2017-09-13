@@ -10,4 +10,4 @@ This group periodicaly convenes discussion around "anchor scenarios" from the Bl
 ------------------------------------------
 
 
-**Back to the MIT Legal Forum Discussion Groups Page:** [DiscussionGroups/Blockchain-Group.md](https://github.com/mitmedialab/MITLegalForum/blob/master/DiscussionGroups/Blockchain-Group.md)
+**Back to the MIT Legal Forum Discussion Groups Page:** [DiscussionGroups/Blockchain-Group.md](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups)
