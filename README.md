@@ -2,6 +2,8 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.  
 
+For more information, see: [https://mitmedialab.github.io/MITLegalForum](https://mitmedialab.github.io/MITLegalForum)
+
 ## MIT Legal Forum Meetings, Events and Activities
 
 During the fall semester of 2017, the MIT Legal Forum is hosting small discussion groups on key technology topics and is convening a full scale conference on AI and Blockchain" at the MIT Media Lab on October 30 + 31, 2017.  
