@@ -29,4 +29,6 @@ Interested to follow along from afar? Want to grab an oar and help us row? This 
 -------------------------------
 
 
-**Back to the MIT Legal Forum Discussion Groups Page:** [DiscussionGroups/Blockchain-Group.md](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups)
+* **Back to the [MIT Legal Forum Discussion Groups Page][DiscussionGroups/Blockchain-Group.md](https://mitmedialab.github.io/MITLegalForum/DiscussionGroups)**
+* **Back to the [MIT Legal Forum]((https://law.mit.edu/MITLegalForum)**
+
