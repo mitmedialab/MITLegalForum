@@ -2,8 +2,6 @@
 
 **The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.**
 
-For more information, see: [https://law.mit.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)
-
 ## MIT Legal Forum Meetings, Events and Activities
 
 **The "MIT Legal Forum on AI and Blockchain"** on October 30 + 31, 2017 is an applied innovation conference at the MIT Media Lab. 
@@ -33,3 +31,10 @@ Participation in MIT Legal Forum events and activities is by invitation-only.  P
 In addition, a small reserve of invitations for in-person attendance are available on a priority basis for current MIT students, faculty and staff and for Volunteer Contributors.  
 
 Request an invitation to participate in the MIT Legal Forum at the form embedded at [https://law.mit.edu/MITLegalForum](https://law.mit.edu/MITLegalForum) and available at: [https://goo.gl/forms/hgLhBbJ29Or2Y7UA2](https://goo.gl/forms/hgLhBbJ29Or2Y7UA2)
+
+
+-------------------------------------------------
+
+Back to the [MIT Human Dynamics Lab](http://hd.media.mit.edu) research page for the MIT Legal Forum: [Law.MIT.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)
+
+
