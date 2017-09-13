@@ -1,6 +1,6 @@
 # The MIT Legal Forum
 
-**The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.**
+> The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age.
 
 * For more information, see: [MITMediaLab.GitHub.io/MITLegalForum](https://mitmedialab.github.io/MITLegalForum) and [Law.MIT.edu/MITLegalForum](https://law.mit.edu/MITLegalForum)
 
