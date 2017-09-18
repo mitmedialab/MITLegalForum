@@ -1,4 +1,4 @@
-# MIT Legal Discussion Group on AI
+# MIT Legal Forum Discussion Group on AI
 
 This MIT Legal Forum small group discussion series focuses on **"AI, Computational and Autonomous Systems"** in the context of law and legal processes.  
 
