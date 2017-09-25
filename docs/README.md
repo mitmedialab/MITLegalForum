@@ -43,7 +43,7 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will be held at the 
 
 > This MIT Legal Forum small group discussion focuses on **Blockchain, Distributed Ledgers and Authoritative Systems** in the context of law and legal processes.
 
-* **Group Page**:[http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html](http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html)
+* **Group Page**: [http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html](http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html)
 
 The  group periodicaly convenes discussion around "anchor scenarios" including:
 * Future potential systems providing distributed ledger or blockchain service for the legal industry including as an authoritative source for public law, public administration and public policy (statutes, regulations, judicial opinions, government procurement, executive orders, etc) along the lines of the proposed Legal Hackers [LawChain](http://lawchain.org) project or the proposed [Global Legal Blockchain Consortium](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0) and other relevant initiatives. 
