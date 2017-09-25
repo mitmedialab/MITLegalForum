@@ -41,6 +41,16 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will be held at the 
 
 ### MIT Legal Forum AI Ethics and Governance (AKA Black Mirror) Discussion Group
 
+> This MIT Legal Forum small group discussion series focuses on “AI, Computational and Autonomous Systems” in the context of law and legal processes.
+
+* **Group Page**: [http://mitlegalforum.org/DiscussionGroups/AI-Group.html](http://mitlegalforum.org/DiscussionGroups/AI-Group.html)
+
+This group periodicaly convenes discussion around “anchor scenarios” from the Black Mirror NetFlix series and other SciFi and other popular media, cinema or books. Anchor scenarios can enable deeper discussion by quickly conveying an understandable set of facts and situations involving the technology and giving rise to key legal issues. Anchor scenarios are selected for their capability to spotlight key social, ethical, governance, political, economic, constitutional and other challenges potentially resulting from rapid and widespread adoption of advanced technologies.
+
+* Upcoming anchor scenarios: We are looking at the scenarios described in MIT Professor Max Tegmark's new book ["Life 3.0 Being Human in the Age of Artificial Intelligence"](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence-ebook/dp/B06WGNPM7V/ref=mt_kindle?_encoding=UTF8&me=) which raise key issues, options and questions about the impact of AI in the context of the kind of world we would want to inhabit. 
+
+### MIT Legal Forum Distributed Ledgers and Blockchain Discussion Group
+
 > This MIT Legal Forum small group discussion focuses on **Blockchain, Distributed Ledgers and Authoritative Systems** in the context of law and legal processes.
 
 * **Group Page**: [http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html](http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html)
@@ -49,15 +59,6 @@ The  group periodicaly convenes discussion around "anchor scenarios" including:
 * Future potential systems providing distributed ledger or blockchain service for the legal industry including as an authoritative source for public law, public administration and public policy (statutes, regulations, judicial opinions, government procurement, executive orders, etc) along the lines of the proposed Legal Hackers [LawChain](http://lawchain.org) project or the proposed [Global Legal Blockchain Consortium](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0) and other relevant initiatives. 
 * Hypothetical litigation in a mock trial format arising from use of blockchain or distributed ledger technology prototype, project or product. Anchor scenarios can enable deeper discussion by quickly conveying a usable fact pattern and situational context involving the technology and giving rise to key legal issues. Anchor scenarios are selected for their capability to enable discussion of key problems, options and opportunities for establishing appropriate and predictable legal results.
 * And other scenarios proposed by members of the discussion group.
-
-### MIT Legal Forum Distributed Ledgers and Blockchain Discussion Group
-
-> This MIT Legal Forum small group discussion series focuses on “AI, Computational and Autonomous Systems” in the context of law and legal processes.
-
-* **Group Page**: [http://mitlegalforum.org/DiscussionGroups/AI-Group.html](http://mitlegalforum.org/DiscussionGroups/AI-Group.html)
-
-This group periodicaly convenes discussion around “anchor scenarios” from the Black Mirror NetFlix series and other SciFi based popular media, cinema or books. Anchor scenarios can enable deeper discussion by quickly conveying an understandable set of facts and situations involving the technology and giving rise to key legal issues. Anchor scenarios are selected for their capability to spotlight key social, ethical, governance, political, economic, constitutional and other challenges potentially resulting from rapid and widespread adoption of advanced technologies.
-
 
 ------------------------------
 
