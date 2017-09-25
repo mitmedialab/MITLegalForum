@@ -15,7 +15,7 @@
 
 ## Pre-Event Activities
 
-### Bob Craig and Dazza Greenwood, Forum Preview on Plan for a Global Legal Blockchain Consortium 
+### 2017-09-26: Bob Craig and Dazza Greenwood, Forum Preview on Plan for a Global Legal Blockchain Consortium 
 
 * Join us by Hangout at [http://youtu.be/8gSFfFB1Jto](http://youtu.be/8gSFfFB1Jto) on September 26, 2017 from 1:00 PM - 1:30 PM,  to speak with Bob Craig, CIO at Baker Hostetler, LLP and  Dazza Greenwood of law.MIT.edu at the [Future Law MIT Course](http://futurelawmit.org/#class-sept-26) for a preview of the MIT Legal Forum on AI + Law discussion to launch the Global Legal Blockchain Consortium
 
@@ -23,7 +23,7 @@
 * [http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 
 
-### Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
+### 2017-10-06: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
 * Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 6th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
 
