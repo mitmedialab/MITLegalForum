@@ -23,8 +23,6 @@
 * [http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 
 
-## Pre-Event Activities
-
 ### Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
 * Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 6th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
