@@ -17,13 +17,13 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identi
 
 <div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/mit-legal-forum-on-ai-blockchain-tickets-37953670450?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
 
-## Request Invitation
+# Request Invitation
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBSMiXL9jqdtl0ygl8VF9b3M0zaRjZd9-bJyzgNOmRHHlBbw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ------------------------------
 
-## Pre-Conference Activities
+# Pre-Conference Activities
 
 ### 2017-09-26: Bob Craig and Dazza Greenwood, Forum Preview on Plan for a Global Legal Blockchain Consortium 
 
