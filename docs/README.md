@@ -32,6 +32,38 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identi
 * [https://www.linkedin.com/in/bocraig](https://www.linkedin.com/in/bocraig)
 * [http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 
+### 2017-10-06: Many Sporny and Dazza Greenwood: "What's Happening in Standards-land around Blockchain, Identity, and Payments"
+
+* The law.MIT.edu YouTube Live Event Page: [http://youtu.be/jOzHnZ7oxR0](http://youtu.be/jOzHnZ7oxR0)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/jOzHnZ7oxR0" frameborder="0" allowfullscreen></iframe>
+
+A live discussion with Manu Sporny, hosted by Dazza Greenwood at the MIT Media Lab.  This will be livecast.  In-person attendance is limited to members of the MIT community or by invitation only.  This discussion will be essential background for those seeking to engage in the topic of potential future standards for use of blockchain in the legal industry.  Givne this will be a theme of the MIT Legal Forum on October 30-31, 2017, catching this informative and timely discussion is recommended! 
+
+For those that want some background reading material and/or videos:
+
+* A Primer on Functional Identity: https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md
+
+* A Primer on Self-Sovereign Identity: https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/self-sovereign-identity-primer.md
+
+* Decentralized Identifier Primer: https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/did-primer.md
+
+* A Verifiable Claims Primer: https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/verifiable-claims-primer.md
+
+* W3C Credentials CG Decentralized Identifier Client (video - 3 minutes): https://www.youtube.com/watch?v=tQzQKZKF93w
+
+* W3C Credentials CG Credential Handler Polyfill (video - 6 minutes): https://www.youtube.com/watch?v=bm3XBPB4cFY
+
+* W3C Web Payments Polyfill (video - 6 minutes): https://www.youtube.com/watch?v=Yb-gWT1t1Rg
+
+--
+**Guest: Manu Sporny (skype: msporny, twitter: manusporny, G+: +Manu Sporny)**
+* Founder/CEO - Digital Bazaar, Inc.
+* blog: Rebalancing How the Web is Built
+* http://manu.sporny.org/2016/rebalancing/
+
+**Host: Dazza Greenwood, law.MIT.edu**
+
 
 ### 2017-10-06: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
