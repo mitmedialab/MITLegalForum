@@ -19,9 +19,8 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identi
 
 # Request Invitation
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBSMiXL9jqdtl0ygl8VF9b3M0zaRjZd9-bJyzgNOmRHHlBbw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="660" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-------------------------------
 
 # Pre-Conference Activities
 
