@@ -1,12 +1,12 @@
 **The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.**
 
 # The MIT Legal Forum on AI & Blockchain
+**October 30 & 31, 2017 at the MIT Media Lab**: 
 
 The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal scholars, practitioners, technologists and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.   
 
-Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. To be a full online or in-person conference contributor in MIT Legal Forum breakout groups, workshops, learning sessions and other activities [request an invitation through the Google Form](http://mitlegalforum.org/#request-invitation) at the bottom of this page.
+Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. To be a full online or in-person conference contributor in MIT Legal Forum breakout groups, workshops, learning sessions and other activities **request an invitation through this Google Form: [https://goo.gl/forms/unO3Do94Mi04bItH2](https://goo.gl/forms/unO3Do94Mi04bItH2).**
 
-**October 30 & 31, 2017 at the MIT Media Lab**: 
 
 ## Confirmed Speakers
 * **Additional speakers will be announced through the month of October**
@@ -18,11 +18,6 @@ Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page)
 > [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com)
 
 <div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/mit-legal-forum-on-ai-blockchain-tickets-37953670450?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
-
-# Request Invitation
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="620" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 
 # Pre-Conference Activities
 
