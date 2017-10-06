@@ -19,7 +19,7 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identi
 
 # Request Invitation
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="630" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="620" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 # Pre-Conference Activities
@@ -73,6 +73,8 @@ For those that want some background reading material and/or videos:
 ### 2017-10-06: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
 * Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 6th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7vnfgXAkn6w" frameborder="0" allowfullscreen></iframe>
 
 * [https://www.artificiallawyer.com/2017/05/23/ibm-watsons-inhouse-ai-app-will-change-the-legal-world-if-it-catches-on](https://www.artificiallawyer.com/2017/05/23/ibm-watsons-inhouse-ai-app-will-change-the-legal-world-if-it-catches-on)
 * [http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html](http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html)
