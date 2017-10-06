@@ -1,5 +1,7 @@
 ## Request you invitation [through this participation form](https://goo.gl/forms/unO3Do94Mi04bItH2)
 
+----------------------------------
+
 # The MIT Legal Forum on AI & Blockchain
 **October 30 & 31, 2017 at the MIT Media Lab**: 
 
