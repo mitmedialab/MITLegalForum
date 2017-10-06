@@ -1,11 +1,13 @@
-**The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.**
+Request you invitation at: [https://goo.gl/forms/unO3Do94Mi04bItH2](https://goo.gl/forms/unO3Do94Mi04bItH2)
 
 # The MIT Legal Forum on AI & Blockchain
 **October 30 & 31, 2017 at the MIT Media Lab**: 
 
+The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
+
 The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal scholars, practitioners, technologists and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.   
 
-Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. To be a full online or in-person conference contributor in MIT Legal Forum breakout groups, workshops, learning sessions and other activities **request an invitation through this Google Form: [https://goo.gl/forms/unO3Do94Mi04bItH2](https://goo.gl/forms/unO3Do94Mi04bItH2).**
+Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. To be a full online or in-person conference contributor in MIT Legal Forum breakout groups, workshops, learning sessions and other activities **request an invitation through [this Google Form](https://goo.gl/forms/unO3Do94Mi04bItH2)**.
 
 
 ## Confirmed Speakers
