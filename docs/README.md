@@ -110,6 +110,8 @@ Issues and insights developed in ongoing discussion groups of the MIT Legal Foru
 
 For more information and to pose questions about the October 30-31, 2017 MIT Legal Forum, don't hesitate to reach out to us at: [http://Law.MIT.edu/contact](http://law.mit.edu/contact).
 
+Interested in opportunities to volunteer?  https://goo.gl/forms/y1yDgDfrd6tEljqg2
+
 
 --------------------------------------------
 
