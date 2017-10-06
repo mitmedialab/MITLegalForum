@@ -28,11 +28,19 @@ Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page)
 * [https://www.linkedin.com/in/bocraig](https://www.linkedin.com/in/bocraig)
 * [http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 
+
+----------------
+
+
 ### 2017-10-05 Drummond Reed and Dazza Greenwood: Meet the Keynote Speaker on Digital Identity in the Context of Law
 
 * Join us by Hangout from the Rebooting Web of Trust conference at IDEO to meet MIT Legal Forum keynote speaker Drummond Reed and get a rapid preview of his keynote remarks on digital identity in the context of law.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Wo20GRVZA0" frameborder="0" allowfullscreen></iframe>
+
+
+----------------
+
 
 ### 2017-10-06: Many Sporny and Dazza Greenwood: "What's Happening in Standards-land around Blockchain, Identity, and Payments"
 
@@ -66,6 +74,8 @@ For those that want some background reading material and/or videos:
 
 **Host: Dazza Greenwood, law.MIT.edu**
 
+----------------
+
 
 ### 2017-10-11: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
@@ -77,6 +87,8 @@ For those that want some background reading material and/or videos:
 * [http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html](http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html)
 
 > Note: Due to scheduling conflict at MIT this hangout has been rescheduled from October 6, 2017.
+
+
 
 ## Ongoing Legal Forum Discussion Groups
 
