@@ -72,14 +72,16 @@ For those that want some background reading material and/or videos:
 **Host: Dazza Greenwood, law.MIT.edu**
 
 
-### 2017-10-06: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
+### 2017-10-11: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
-* Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 6th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
+* Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 11th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7vnfgXAkn6w" frameborder="0" allowfullscreen></iframe>
 
 * [https://www.artificiallawyer.com/2017/05/23/ibm-watsons-inhouse-ai-app-will-change-the-legal-world-if-it-catches-on](https://www.artificiallawyer.com/2017/05/23/ibm-watsons-inhouse-ai-app-will-change-the-legal-world-if-it-catches-on)
 * [http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html](http://www.prnewswire.com/news-releases/ibm-and-mit-to-pursue-joint-research-in-artificial-intelligence-establish-new-mitibm-watson-ai-lab-300515317.html)
+
+> Note: Due to scheduling conflict at MIT this hangout has been rescheduled from October 6, 2017.
 
 ## Ongoing Legal Forum Discussion Groups
 
