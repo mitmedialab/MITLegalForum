@@ -31,6 +31,12 @@ The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identi
 * [https://www.linkedin.com/in/bocraig](https://www.linkedin.com/in/bocraig)
 * [http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929](http://www.americanlawyer.com/id=1202796117982/New-Legal-Blockchain-Consortium-Looks-Toward-Identity-Verification-Legal-Tech-Ecosystems?mcode=1202617074729&curindex=0&slreturn=20170823235929)
 
+### 2017-10-05 Drummond Reed and Dazza Greenwood: Meet the Keynote Speaker on Digital Identity in the Context of Law
+
+* Join us by Hangout from the Rebooting Web of Trust conference at IDEO to meet MIT Legal Forum keynote speaker Drummond Reed and get a rapid preview of his keynote remarks on digital identity in the context of law.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Wo20GRVZA0" frameborder="0" allowfullscreen></iframe>
+
 ### 2017-10-06: Many Sporny and Dazza Greenwood: "What's Happening in Standards-land around Blockchain, Identity, and Payments"
 
 * The law.MIT.edu YouTube Live Event Page: [http://youtu.be/jOzHnZ7oxR0](http://youtu.be/jOzHnZ7oxR0)
