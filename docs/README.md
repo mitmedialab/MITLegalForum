@@ -1,15 +1,11 @@
-## Request you invitation [through this participation form](https://goo.gl/forms/unO3Do94Mi04bItH2)
-
-----------------------------------
-
 # The MIT Legal Forum on AI & Blockchain
 **October 30 & 31, 2017 at the MIT Media Lab**: 
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal scholars, practitioners, technologists and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.   
+> The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal scholars, practitioners, technologists and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.   
 
-Register through [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. To be a full online or in-person conference contributor in MIT Legal Forum breakout groups, workshops, learning sessions and other activities **request an invitation through [this Google Form](https://goo.gl/forms/unO3Do94Mi04bItH2)**.
+**Use this [Google Form](https://goo.gl/forms/unO3Do94Mi04bItH2) (also embedded below) to participate as an in-person or online attendee** in the MIT Legal Forum on AI & Blockchain at the MIT Media Lab October 30-31, 2017.  Attendees may join and contribute to MIT Legal Forum breakout groups, workshops, learning sessions and other activities.  To watch public live streams from the MIT Legal Forum, register on  [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) and you will receive general announcements and updates, including links to public live streams with corresponding #hashtags.  
 
 
 ## Confirmed Speakers
@@ -92,8 +88,6 @@ For those that want some background reading material and/or videos:
 
 > Note: Due to scheduling conflict at MIT this hangout has been rescheduled from October 6, 2017.
 
-
-
 ## Ongoing Legal Forum Discussion Groups
 
 Issues and insights developed in ongoing discussion groups of the MIT Legal Forum will form another input of questions, challenges and ideas to be discussed at the October 30-31, 2017 event, including:  
@@ -109,6 +103,40 @@ Issues and insights developed in ongoing discussion groups of the MIT Legal Foru
 > This MIT Legal Forum small group discussion focuses on **Blockchain, Distributed Ledgers and Authoritative Systems** in the context of law and legal processes.
 
 * **Group Page**: [http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html](http://mitlegalforum.org/DiscussionGroups/Blockchain-Group.html)
+
+## Open Access to Key Knowledge, Tools and Practices
+
+The MIT Legal Forum is structured around open and public information sharing models to enable the rapid and large scale diffusion of relevant knowledge, tools and practices.  These open public information sharing models are intended to effectively catalyze and efficiently fuel a beneficial and systemic transformation of law and legal processes.
+
+Specifically, the form-based workflow for requesting an invitation to participate has been engineered to ensure Creative Commons license terms apply by default to all content shared at any MIT Legal Forum event or activity.  Likewise, any software, scripts, computer code or other data shared as part of an MIT Legal Forum event or activity must be submitted to a GitHub code repository situated under the MIT Media Lab's GitHub organization to ensure open source license terms apply by default.  
+
+These information sharing models are intended to ensure any person or team applying technology to innovate the law and legal processes has instant and continuing access to all the insightful ideas, timely questions, important issues and creative solutions and other relevant information shared through the MIT Legal Forum. 
+
+More information on these and other methods for maintaining adherence to open public information sharing while successfully engaging a range of effective participants on law and technology can be found at: [Law.MIT.edu/Contribute](https://Law.MIT.edu/Contribute)
+
+### Chatham House Rules
+
+To address important ethical, reputational and other concerns that inhibit openness of discussion and the free flow of ideas, some parts of the MIT Legal Forum plenary meetings, small group discussions and other activities will operate under [Chatham House Rules](https://en.wikipedia.org/wiki/Chatham_House_Rule).  Under Chathan House Rules,  participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.  For example, under these rules, one may disclose "I Just Heard the ICO Bubble is Predicted to Bust Before Q2 2019" but not "According to @DazzaGreenwood, the ICO Bubble Will Bust before Q2 2019".
+
+### Broadcast and General Public Discussion
+
+Keynotes, panels and other major activities of the MIT Legal Forum will be streamed live on the Internet.  Register through EventBrite to receive email invitations with links to live streams and Twitter hashtags for plenary sessions and panel discussions of the MIT Legal Forum. Our EventBrite site is: [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com)
+
+EventBrite registration does ensure general updates and announcements but does not provide an invitation to join disussions and make contributions as a full attendee either online or in-person.  To request an invitation as a full attendee, use [this form](https://goo.gl/forms/a1agItqqX8JW8nh32).
+
+## Volunteer Opportunities
+
+A small reserve of invitations for in-person attendance are available on a priority basis for current MIT students, faculty and staff and for [Volunteer Contributors](https://goo.gl/forms/SDd9XnMBnnp3PL513).  To be accepted as a volunteer it is helpful to bring some knowledge and skill related to law, AI and/or blockchain.  An MIT affiliation is helpful but not required to be accepted as a volunteer.  Volunteer opportunities are available for the in-person and the online activities.  To request the opportunity to volunteer with the MIT Legal Forum team, use the form at: [https://goo.gl/forms/SDd9XnMBnnp3PL513](https://goo.gl/forms/SDd9XnMBnnp3PL513).  
+
+-------
+
+# Invitation to Attend and Participate
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+---------
 
 # Questions and Information
 
