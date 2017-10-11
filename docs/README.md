@@ -78,9 +78,9 @@ For those that want some background reading material and/or videos:
 ----------------
 
 
-### 2017-10-11: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
+### 2017-10-20: Shawnna Hoffman and Dazza Greenwood, Forum Preview on Future of AI and IBM Watson for Law
 
-* Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 11th, 2017 from 1:30 PM - 2:00 PM, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
+* Join us by Hangout at [https://lnkd.in/gx_kk8M](https://lnkd.in/gx_kk8M) on October 20th, 2017 from 8:00 PM - 8:30 PM Eastern, to speak with Dazza Greenwood of law.MIT.edu and Shawnna Hoffman of IBM Watson for Law about the MIT Legal Forum on AI & Blockchain this October 30+31 at the MIT Media Lab.  For more information and to preregister for this event, see: [http://mit.edu/law](http://mit.edu/law).
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/7vnfgXAkn6w" frameborder="0" allowfullscreen></iframe>
 
