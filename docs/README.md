@@ -14,11 +14,10 @@ The MIT Legal Forum generates and fosters ideas, technology and solutions to ref
 
 <a id="sched-embed" href="http://mitlegalforum2017.sched.com/directory/speakers">View the MIT Legal Forum mobile app</a><script type="text/javascript" src="http://mitlegalforum2017.sched.com/js/embed.js"></script>
 
+## Current Agenda
+* **Additional sessions will be announced through the month of October**
 
-## EventBrite Page
-> [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com)
-
-<div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/mit-legal-forum-on-ai-blockchain-tickets-37953670450?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<a id="sched-embed"  href="http://mitlegalforum2017.sched.com/list/descriptions/">View the MIT Legal Forum mobile app</a><script type="text/javascript" src="http://mitlegalforum2017.sched.com/js/embed.js"></script>
 
 # Pre-Conference Activities
 
