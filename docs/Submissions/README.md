@@ -1,0 +1,1 @@
+This directory is for presented and proposed papers, articles, posts and other relevant materials submitted for review and discussion to the MIT Legal Forum.  All materials submitted must be sharable under Creative Commons Attribution License unless a comparable license has been approved in writing by MIT for inclusion of materials in this collection. 
