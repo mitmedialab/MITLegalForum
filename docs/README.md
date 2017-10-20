@@ -19,6 +19,15 @@ The MIT Legal Forum generates and fosters ideas, technology and solutions to ref
 
 <a id="sched-embed"  href="http://mitlegalforum2017.sched.com/list/descriptions/">View the MIT Legal Forum mobile app</a><script type="text/javascript" src="http://mitlegalforum2017.sched.com/js/embed.js"></script>
 
+## Papers and Articles
+
+If you would like to share a paper, article or other relevant materials under Creative Commons Attribution license for review and discussion through the MIT Legal Forum, use one of the following methods: 
+
+* Make a pull request to our GitHub repository: [https://github.com/mitmedialab/MITLegalForum/tree/master/docs/Submissions](https://github.com/mitmedialab/MITLegalForum/tree/master/docs/Submissions)
+
+* Upload to our Google Drive folder: [https://goo.gl/forms/dxUTiwfOdNb9GHOp2](https://goo.gl/forms/dxUTiwfOdNb9GHOp2)
+
+
 # Pre-Conference Activities
 
 ### 2017-09-26: Bob Craig and Dazza Greenwood, Forum Preview on Plan for a Global Legal Blockchain Consortium 
