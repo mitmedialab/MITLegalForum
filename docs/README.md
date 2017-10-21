@@ -3,15 +3,13 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal practitioners, technologists, scholars and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.
-
-Our intent with this event is to catalyze well grounded idea flow and engaged discussion on the systemic digital transformation of law and the legal industry.  The format of the event will be a series of sessions flowing from level setting overviews to fire-starter talks to breakout sessions to reports back and synthesizing discussion on key themes.  Attendees are expected to actively participate in the discussion and help move the conversation forward.
+The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. Our intent with this event is to catalyze well grounded idea flow and engaged discussion on the systemic digital transformation of law and the legal industry.  The format of the event will be a series of sessions flowing from level setting overviews to fire-starter talks to breakout sessions to reports back and synthesizing discussion on key themes.  Attendees are expected to actively participate in the discussion and help move the conversation forward.
 
 **Use this [Google Form](https://goo.gl/forms/unO3Do94Mi04bItH2) (also [embedded below](http://mitlegalforum.org/#invitation-to-attend-and-participate)) to participate as an in-person or online attendee** in the MIT Legal Forum on AI & Blockchain at the MIT Media Lab October 30-31, 2017.  Attendees may join and contribute to MIT Legal Forum breakout groups, workshops, learning sessions and other activities.  To watch public live streams from the MIT Legal Forum, register on  [EventBrite (below)](http://mitlegalforum.org/#eventbrite-page) and you will receive general announcements and updates, including links to public live streams with corresponding #hashtags.  
 
 **Mission** 
 
-> The inaugural MIT Legal Forum on AI & Blockchain conference will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. The mission of this conference is to provide a forum for legal scholars, practitioners, technologists and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.   
+> The mission of this conference is to provide a forum for legal practitioners, technologists, scholars and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.  
 
 ## Confirmed Speakers
 * **Additional speakers will be announced through the month of October**
