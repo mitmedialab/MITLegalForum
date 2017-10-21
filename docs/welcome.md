@@ -16,3 +16,5 @@ On behalf of the MIT Legal Forum Program Committee, I want to thank you for join
 Kind regards,
 
 - Dazza Greenwood, law.MIT.edu
+
+<img width="970" alt="screen shot 2017-10-20 at 7 35 21 pm" src="https://user-images.githubusercontent.com/2357755/31848436-dbaca6c2-b600-11e7-853e-ce165e0355ff.png">
