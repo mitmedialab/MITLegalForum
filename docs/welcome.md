@@ -1,6 +1,6 @@
 <img width="969" alt="screen shot 2017-10-20 at 7 35 10 pm" src="https://user-images.githubusercontent.com/2357755/31848430-b0f9589e-b600-11e7-9fad-d79718b62cbd.png">
 
-Congratulations, we are pleased to invite your participation in the first ever MIT Legal Forum on AI and Blockchain!
+**Congratulations and welcome**, we are pleased to invite your participation in the first ever MIT Legal Forum on AI and Blockchain!
 
 The format of this event will be a series of sessions flowing from fire-starter talks to breakout sessions to reports out on key themes.  You can always find the most current information on MIT Legal Forum attendees and the schedule of plenary, breakout or other activities at: [https://MITLegalForum2017.sched.com](https://MITLegalForum2017.sched.com).  
 
