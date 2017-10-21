@@ -3,13 +3,15 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-The [inaugural MIT Legal Forum on AI & Blockchain conference](https://mitlegalforum2017.sched.com) will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. Our intent with this event is to catalyze well grounded idea flow and engaged discussion on the systemic digital transformation of law and the legal industry.  The format of the event will be a series of sessions flowing from level setting overviews to fire-starter talks to breakout sessions to reports back and synthesizing discussion on key themes.  Invited in-person and online attendees are expected to actively participate in the discussion and help move the conversation forward.  
-
-To participate in the MIT Legal Forum, you must [create a profile and signup for sessions on our event site](http://mitlegalforum2017.sched.com).  You can signup on our event site by registering for the general public webcast through [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com) or by [requesting an invitation](https://goo.gl/forms/unO3Do94Mi04bItH2) to actively contribute to the discussion as an online or in-person attendee.  This standard [welcome message to participants](http://mitlegalforum.org/welcome.html) provides more background on the structure and flow for the conference event on October 30-31, 2107.
-
-**Mission** 
+The [inaugural MIT Legal Forum on AI & Blockchain conference](https://mitlegalforum2017.sched.com) will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. Our intent with this event is to catalyze well grounded idea flow and engaged discussion on the systemic digital transformation of law and the legal industry.  The format of the event will be a series of sessions flowing from level setting overviews to fire-starter talks to breakout sessions to reports back and synthesizing discussion on key themes.  
 
 > The mission of this conference is to provide a forum for legal practitioners, technologists, scholars and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.  
+
+## Signup to Participate 
+
+To participate in the MIT Legal Forum on AI and Blockchain, you must [create a profile and signup for sessions on our event site](http://mitlegalforum2017.sched.com).  You can [signup on our event site](https://mitlegalforum2017.sched.com/tickets) in two ways.  One way to signup is by registering for the general public webcast through [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com).  When you sign up through EventBrite you will receive announcements and updates about content streams from the Legal Forum and relevant hashtags for general online participation. The other way to signup is by [requesting an invitation](https://goo.gl/forms/unO3Do94Mi04bItH2) to actively engage and contribute to the discussion as an online attendee or an in-person attendee. 
+
+More invitations are requested than can be extended due to space and resource limitations.  This standard [welcome message to participants](http://mitlegalforum.org/welcome.html) provides more background on the structure and flow for the conference event on October 30-31, 2107.
 
 ## Confirmed Speakers
 * **Additional speakers will be announced through the month of October**
