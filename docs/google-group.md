@@ -1,5 +1,5 @@
 # MIT Legal Forum 
-## [Google Group](https://groups.google.com/forum/#!forum/mit-legal-forum)
+**[Google Group](https://groups.google.com/forum/#!forum/mit-legal-forum)**
 
 <iframe id="forum_embed"
   src="javascript:void(0)"
