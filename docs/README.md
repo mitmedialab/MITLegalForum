@@ -11,9 +11,9 @@ This standard [welcome message to participants](http://mitlegalforum.org/welcome
 
 ## Signup to Participate 
 
-To participate in the MIT Legal Forum on AI and Blockchain, you must [create a profile and signup for sessions on our event site](http://mitlegalforum2017.sched.com).  You can [signup on our event site](https://mitlegalforum2017.sched.com/tickets) in two ways.  One way to signup is by registering as an online participant for the general public webcast through [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com).  When you sign up through EventBrite you will receive announcements and updates about Legal Forum live content streams from the MIT Media Lab and relevant hashtags for general online participation. The other way to signup is to request an invitation [through the standard intake and consent form](https://goo.gl/forms/unO3Do94Mi04bItH2) to actively engage and contribute to the discussion as an online attendee or an in-person attendee. 
+To participate online in the MIT Legal Forum on AI and Blockchain, you must [create a profile and signup for sessions on our event site](mitlegalforumonline2017.sched.com).  One way to signup is by registering as an online participant for the general public webcast through [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com).  You can also signup directly on [our event site](mitlegalforumonline2017.sched.com/tickets).  When you sign up through EventBrite or the link from our event site you will receive announcements and updates about Legal Forum live content streams from the MIT Media Lab and relevant hashtags for general online participation.
 
-We regret that more invitations are requested than can be extended due to space and resource limitations.  
+We regret that more invitations for in-person attendence are requested than can be extended due to space and resource limitations.  To inquire about in-person attendence requests made in the past or about being added to our waiting list, please [contact us](https://law.mit.edu/contact).
 
 ## Confirmed Speakers
 * **Additional speakers will be announced through the month of October**
