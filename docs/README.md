@@ -3,6 +3,12 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
+## General Public Webcast
+
+See the live steam at: [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+
+## MIT Legal Forum Overview 
+
 The [inaugural MIT Legal Forum on AI & Blockchain conference](https://mitlegalforum2017.sched.com) will focus on identity and contracts and will be held at the MIT Media Lab on October 30 & 31, 2017. Our intent with this event is to catalyze well grounded idea flow and engaged discussion on the systemic digital transformation of law and the legal industry.  The format of the event will be a series of sessions flowing from level setting overviews to fire-starter talks to breakout sessions to reports back and synthesizing discussion on key themes.  
 
 > The mission of this conference is to provide a forum for legal practitioners, technologists, scholars and business professionals to (A) discuss the current and likely future impact of AI and blockchain technologies on the law, and (B) develop an initial framework for the evaluation, prioritization and practical application of AI and blockchain technologies to the law.  
