@@ -2,7 +2,7 @@
 
 ## Direct Link
 
-* [http://youtu.be/ipMXgkIklnc](http://youtu.be/ipMXgkIklnc)
+* [YouTube.com/c/lawMITedu](http://www.youtube.com/c/lawMITedu)
 
 ## Embed Video Stream
 
