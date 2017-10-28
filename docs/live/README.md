@@ -4,7 +4,8 @@
 
 * YouTube Channel of law.MIT.edu: [YouTube.com/c/lawMITedu](http://www.youtube.com/c/lawMITedu)
 * Upcoming Live Streams: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=1&live_view=502&sort=dd&view=2](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=1&live_view=502&sort=dd&view=2)
-* Past Live Stream: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2)
+* Past Live Streams: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2)
+* General Public Webcast Spash Page: [MITLegalForum.org/live](http://mitlegalforum.org/live)
 
 ## MIT Legal Forum Day One Opening Session
 
