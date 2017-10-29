@@ -17,9 +17,9 @@ This standard [welcome message to participants](http://mitlegalforum.org/welcome
 
 ## Signup to Participate 
 
-To participate online in the MIT Legal Forum on AI and Blockchain, you must [create a profile and signup for sessions on our event site](mitlegalforumonline2017.sched.com).  One way to signup is by registering as an online participant for the general public webcast through [MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com).  You can also signup directly on [our event site](mitlegalforumonline2017.sched.com/tickets).  When you sign up through EventBrite or the link from our event site you will receive announcements and updates about Legal Forum live content streams from the MIT Media Lab and relevant hashtags for general online participation.
+In-person registration is closed.  But you can still signup by registering as an online participant for the general public webcast through [https://MIT-Law-AI-Blockchain.EventBrite.com](https://mit-law-ai-blockchain.eventbrite.com).  You can also signup directly on [our event site](https://mitlegalforumonline2017.sched.com/tickets).  When you signup you will receive announcements and updates about Legal Forum live content streams from the MIT Media Lab and relevant hashtags for general online participation.
 
-We regret that more invitations for in-person attendance are requested than can be extended due to space and resource limitations.  To inquire about in-person attendance requests made in the past or about being added to our waiting list, please [contact us](https://law.mit.edu/contact).
+To inquire about in-person attendance requests made in the past or about being added to our waiting list, please [contact us](https://law.mit.edu/contact).
 
 ## Confirmed Speakers
 * **Additional speakers will be announced through the month of October**
