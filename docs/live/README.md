@@ -9,6 +9,10 @@
 * Past Live Streams: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2)
 * General Public Webcast Spashpage: [MITLegalForum.org/live](http://mitlegalforum.org/live)
 
+
+## Day One Lunch Keynote Speaker: Casey Kuhlman
+* [http://youtu.be/o3c-FElNh_w](http://youtu.be/o3c-FElNh_w)
+
 ## MIT Legal Forum Day One Opening Session
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/ipMXgkIklnc" frameborder="0" allowfullscreen></iframe>
