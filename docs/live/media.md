@@ -10,8 +10,8 @@
 * #GlobalLegalBlockchainConsortium
 
 # handles
-@ConsortiumLegal
-@CognitiveLEgal
-@BakerHostetler
-@IntegraLedger
+@ConsortiumLegal; 
+@CognitiveLEgal; 
+@BakerHostetler; 
+@IntegraLedger; 
 @CognitiveLegal
