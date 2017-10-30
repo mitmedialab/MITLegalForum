@@ -11,7 +11,7 @@
 
 # handles
 @ConsortiumLegal; 
-@CognitiveLEgal; 
+@CognitiveLegal; 
 @BakerHostetler; 
 @IntegraLedger; 
 @CognitiveLegal
