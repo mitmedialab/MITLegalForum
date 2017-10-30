@@ -9,6 +9,16 @@
 * Past Live Streams: [https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw/videos?shelf_id=2&live_view=503&sort=dd&view=2)
 * General Public Webcast Spashpage: [MITLegalForum.org/live](http://mitlegalforum.org/live)
 
+## Day One Breakout Workshop on Utility Token in the Energy Sector
+
+* YouTube Live Page: [https://youtu.be/WJXzvzXQEQY](https://youtu.be/WJXzvzXQEQY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJXzvzXQEQY" frameborder="0" allowfullscreen></iframe>
+
+In this participatory workship style session, the MIT Digital Currency Initiative (DCI) MicroGrid project serves as the anchor scenario for discussion of how utility tokens can be designed to hone and integrate next-generation business models, legal frameworks and technical architectures of grid ownership and operation in the energy sector context. 
+
+Michael Casey of MIT will describe and facilitate discussion about the MIT DCI MicroGrid project.  Dan Harple of Context Labs provides an overview ofthe  enterprise structure of Solar MicroGrids including market participants. Harrison Perl of C4Coin outlines the range of blockchain implementations (private, consortium, public) and how each may affect network and token ownership.  
+
 
 ## Day One Lunch Keynote Speaker: Casey Kuhlman
 * [http://youtu.be/o3c-FElNh_w](http://youtu.be/o3c-FElNh_w)
