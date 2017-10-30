@@ -5,7 +5,7 @@ The MIT Legal Forum generates and fosters ideas, technology and solutions to ref
 
 # Online Participation
 
-See the webcast and stay up to date about opportunities to participate online at
+See the webcast and stay up to date about event social media and opportunities to participate online at
 
 ## [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
 
