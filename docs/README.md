@@ -5,13 +5,13 @@ The MIT Legal Forum generates and fosters ideas, technology and solutions to ref
 
 # Online and Future Participation
 
-See the webcast of Day 2  at:
-
-### [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+* Check out links to the webcast of Days 1 & 2  at: [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
 
 ## Participate in Future Activities of the MIT Legal Forum
 
-To stay up to date about in-person events and opportunities to participate online, let us know here:
+Continue as  about in-person events and opportunities to participate online, let us know here:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Link to Follow
 
@@ -156,13 +156,6 @@ EventBrite registration does ensure general updates and announcements but does n
 ## Volunteer Opportunities
 
 A small reserve of invitations for in-person attendance are available on a priority basis for current MIT students, faculty and staff and for [Volunteer Contributors](https://goo.gl/forms/SDd9XnMBnnp3PL513).  To be accepted as a volunteer it is helpful to bring some knowledge and skill related to law, AI and/or blockchain.  An MIT affiliation is helpful but not required to be accepted as a volunteer.  Volunteer opportunities are available for the in-person and the online activities.  To request the opportunity to volunteer with the MIT Legal Forum team, use the form at: [https://goo.gl/forms/SDd9XnMBnnp3PL513](https://goo.gl/forms/SDd9XnMBnnp3PL513).  
-
--------
-
-# Invitation to Attend and Participate
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 ---------
