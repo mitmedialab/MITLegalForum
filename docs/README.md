@@ -3,11 +3,17 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-# Online Participation
+# Online and Future Participation
 
-See the webcast and stay up to date about event social media and opportunities to participate online at
+See the webcast of Day 2  at:
 
-## [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+### [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+
+## Participate in Future Activities of the MIT Legal Forum
+
+To stay up to date about in-person events and opportunities to participate online, let us know here:
+
+### Link to Follow
 
 ## MIT Legal Forum Overview 
 
