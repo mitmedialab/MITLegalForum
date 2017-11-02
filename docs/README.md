@@ -1,11 +1,27 @@
-# The MIT Legal Forum on AI & Blockchain
-**October 30 & 31, 2017 at the MIT Media Lab**: 
+# MIT Legal Forum
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-# Online and Future Participation
+## Wrap Up from October 30-31, 2017 Conference
 
-* Check out links to the webcast of Days 1 & 2  at: [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+
+**General Public Webcast of Conference Sessions:**  http://YouTube.com/c/lawMITedu 
+
+### Women Leaders in AI and Blockchain 
+* LinkedIn Group: https://www.linkedin.com/groups/12072878 
+* MIT Media Lab Email List: womenleaders-aib@media.mit.edu 
+* GitHub Org: https://github.com/WomenLeaders 
+* Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
+
+### The Computational Law X-Prize
+* Proposal: [https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0](https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0)
+* Session Notes: https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
+
+### Conference Slides, Notes and Papers: Coming Soon!
+
+# Look Ahead to 2018
+* Link: [https://youtu.be/WyCjMf7gXo8](https://youtu.be/WyCjMf7gXo8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WyCjMf7gXo8" frameborder="0" allowfullscreen></iframe>
 
 ## Participate in Future Activities of the MIT Legal Forum
 
@@ -13,7 +29,17 @@ Continue as  about in-person events and opportunities to participate online, let
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-### Link to Follow
+
+========================================
+
+**Archive of Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab**: **
+
+==========================================
+
+# Online and Future Participation
+
+* Check out links to the webcast of Days 1 & 2  at: [http://mitlegalforum.org/live](http://mitlegalforum.org/live)
+
 
 ## MIT Legal Forum Overview 
 
