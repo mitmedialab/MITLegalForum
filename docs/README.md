@@ -2,10 +2,25 @@
 
 The MIT Legal Forum generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.
 
-## Wrap Up from October 30-31, 2017 Conference
 
+# Oct 30-31 Review and 2018 Preview
 
-**General Public Webcast of Conference Sessions:**  http://YouTube.com/c/lawMITedu 
+* With Special Guest Phil Rosenthal of Fastcase
+
+* Link: [https://youtu.be/WyCjMf7gXo8](https://youtu.be/WyCjMf7gXo8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WyCjMf7gXo8" frameborder="0" allowfullscreen></iframe>
+
+# Breakout Group Continue Online!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8E-KHReEqk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Use the form below to request an invitation to join one of the ongoing online breakout groups, including:
+
+* Computational Law [http://MITLegalForum.org/01](http://MITLegalForum.org/01)
+* Automated Legal Entity [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
+* Individual Identity & Personal Data Ownership Rights](http://MITLegalForum.org/03](http://MITLegalForum.org/03)
+
+# Notable Projects Going Forward from Media Lab Conference
 
 ### Women Leaders in AI and Blockchain 
 * LinkedIn Group: https://www.linkedin.com/groups/12072878 
@@ -17,18 +32,15 @@ The MIT Legal Forum generates and fosters ideas, technology and solutions to ref
 * Proposal: [https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0](https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0)
 * Session Notes: https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
-### Conference Slides, Notes and Papers: Coming Soon!
+# JoinUp!
 
-# Look Ahead to 2018
-* Link: [https://youtu.be/WyCjMf7gXo8](https://youtu.be/WyCjMf7gXo8)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WyCjMf7gXo8" frameborder="0" allowfullscreen></iframe>
+**Participate in Future Activities of the MIT Legal Forum**
 
-## Participate in Future Activities of the MIT Legal Forum
-
-Continue as  about in-person events and opportunities to participate online, let us know here:
+* Use the following form to request an invitation to join one of the ongoing MIT Legal Forum breakout group online discussion and to request updates or to submit your ideas, questions, articles or other materials you wish to contribute under Creative Commons license for review and discusson by participants in the MIT Legal Forum.  
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+### 2017 Conference Slides, Notes and Papers: Coming Soon!
 
 ========================================
 
