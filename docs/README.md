@@ -29,7 +29,7 @@ Use the form below to request an invitation to join one of the ongoing online br
 * Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
 
 ### The Computational Law X-Prize
-* Proposal: [https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0](https://drive.google.com/open?id=0B2_n24wFabFCS3FPeUlBdzBiRlN4ZTRyN09aMTRZQlViR2k0)
+* Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
 # JoinUp!
