@@ -10,15 +10,18 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 * Link: [https://youtu.be/WyCjMf7gXo8](https://youtu.be/WyCjMf7gXo8)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WyCjMf7gXo8" frameborder="0" allowfullscreen></iframe>
 
+--------------------
+
+
 # Breakout Group Continue Online!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8E-KHReEqk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Use the form below to request an invitation to join one of the ongoing online breakout groups, including:
 
-* Computational Law [http://MITLegalForum.org/01](http://MITLegalForum.org/01)
-* Automated Legal Entity [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
-* Individual Identity & Personal Data Ownership Rights](http://MITLegalForum.org/03](http://MITLegalForum.org/03)
+* **Computational Law** [http://MITLegalForum.org/01](http://MITLegalForum.org/01)
+* **Automated Legal Entity** [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
+* **Individual Identity & Personal Data Ownership Rights** [http://MITLegalForum.org/03](http://MITLegalForum.org/03)
 
 # Notable Projects Going Forward from Media Lab Conference
 
@@ -30,7 +33,7 @@ Use the form below to request an invitation to join one of the ongoing online br
 
 ### The Computational Law X-Prize
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
-* Session Notes: https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
+* Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
 # JoinUp!
 
