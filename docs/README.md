@@ -32,7 +32,11 @@ Use the embedded Google form below to request an invitation to join one of the o
 * GitHub Org: https://github.com/WomenLeaders 
 * Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
 
-### The Computational Law X-Prize
+### The Computational Law - City Challenge X-Prize 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pboxAUgiUA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+* Video Excerpt Direct Link: [https://youtu.be/-pboxAUgiUA](https://youtu.be/-pboxAUgiUA)
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
