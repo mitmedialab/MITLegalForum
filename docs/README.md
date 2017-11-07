@@ -17,7 +17,8 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8E-KHReEqk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Use the form below to request an invitation to join one of the ongoing online breakout groups, including:
+
+Use the embedded Google form below to request an invitation to join one of the ongoing online breakout groups, including:
 
 * **Computational Law** [http://MITLegalForum.org/01](http://MITLegalForum.org/01)
 * **Automated Legal Entity** [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
