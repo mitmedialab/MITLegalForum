@@ -26,7 +26,7 @@ Use the embedded [Google form below to request an invitation](https://goo.gl/for
 * **Automated Legal Entity** [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
 * **Individual Identity & Personal Data Ownership Rights** [http://MITLegalForum.org/03](http://MITLegalForum.org/03)
 
-Use the following form to request an invitation to join one of the ongoing MIT Legal Forum breakout group online discussion and to request updates or to submit your ideas, questions, articles or other materials you wish to contribute under Creative Commons license for review and discusson by participants in the MIT Legal Forum.  
+Use the following form to request an invitation to join one of the ongoing MIT Legal Forum breakout group online discussion and to request updates or to submit your ideas, questions, articles or other materials you wish to contribute under Creative Commons license for review and discussion by participants in the MIT Legal Forum.  
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
