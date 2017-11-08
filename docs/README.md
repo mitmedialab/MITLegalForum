@@ -13,6 +13,7 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
+
 # JoinUp and Participate!
 
 **Participate in Future Activities of the MIT Legal Forum**
@@ -69,7 +70,6 @@ The Women Leaders panel discussion has emerged as another noteworthy ongoing eff
 * MIT Media Lab Email List: womenleaders-aib@media.mit.edu 
 * GitHub Org: https://github.com/WomenLeaders 
 * Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
-
 
 
 **See the entire Archive** of our [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
