@@ -29,26 +29,6 @@ Use the following form to request an invitation to join one of the ongoing MIT L
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-
-**Women Leaders in AI and Blockchain Initiative** 
-
-The Women Leaders panel discussion has emerged as another noteworthy ongoing effort started at the MIT Legal Forum.  
-
-
-* LinkedIn Group: https://www.linkedin.com/groups/12072878 
-* MIT Media Lab Email List: womenleaders-aib@media.mit.edu 
-* GitHub Org: https://github.com/WomenLeaders 
-* Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
-
-
-## 2017 Slides and Archive
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-* The MIT Legal Forum **Unified Slide Deck**: [https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000)
-
-* **Archive** of [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
-
 ## Volunteer and Share
 
 **Join the MIT Legal Forum Volunteer Team**
@@ -74,6 +54,25 @@ These information sharing models are intended to ensure any person or team apply
 
 More information on these and other methods for maintaining adherence to open public information sharing while successfully engaging a range of effective participants on law and technology can be found at: [Law.MIT.edu/Contribute](https://Law.MIT.edu/Contribute)
 
+
+## 2017 Slides and Archive
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+* The MIT Legal Forum **Unified Slide Deck**: [https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000)
+
+**Women Leaders in AI and Blockchain Initiative** 
+
+The Women Leaders panel discussion has emerged as another noteworthy ongoing effort started at the MIT Legal Forum.  
+
+* LinkedIn Group: https://www.linkedin.com/groups/12072878 
+* MIT Media Lab Email List: womenleaders-aib@media.mit.edu 
+* GitHub Org: https://github.com/WomenLeaders 
+* Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
+
+
+
+**See the entire Archive** of our [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
 
 # Questions and Contact
 
