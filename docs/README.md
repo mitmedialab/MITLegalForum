@@ -13,7 +13,6 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
-
 # JoinUp and Participate!
 
 **Participate in Future Activities of the MIT Legal Forum**
@@ -29,6 +28,14 @@ Use the embedded [Google form below to request an invitation](https://goo.gl/for
 Use the following form to request an invitation to join one of the ongoing MIT Legal Forum breakout group online discussion and to request updates or to submit your ideas, questions, articles or other materials you wish to contribute under Creative Commons license for review and discussion by participants in the MIT Legal Forum.  
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+# Past and Present Speakers
+
+<img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
+
+* [MITLegalForumOnline2017.sched.com](https://mitlegalforumonline2017.sched.com)
+
+<a id="sched-embed"  href="http://mitlegalforumonline2017.sched.com/directory/speakers">View the MIT Legal Forum ONLINE 2017 mobile app</a><script type="text/javascript" src="http://mitlegalforumonline2017.sched.com/js/embed.js"></script>
 
 ## Volunteer and Share
 
