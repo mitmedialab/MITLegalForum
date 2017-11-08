@@ -1,6 +1,9 @@
 # MIT Legal Forum
 
-The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  [Join the MIT Legal Forum as an Online Participant](https://goo.gl/forms/K10l4Pq0uESRUSK53) to receive announcement and updates.
+The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  
+
+* **Stay informed** about MIT Legal Forum ongoing small group projects and breakout discussions [happening online](http://online.mitlegalforum.org) by registering on our Eventbrite site at: [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com). 
+* **Request an invitation** to contribute and engage in [projects and discussions](http://online.mitlegalforum.org) as an Online Participant through our [Google Intake Form](https://goo.gl/forms/K10l4Pq0uESRUSK53).
 
 # Computational Law Challenge
 
