@@ -12,8 +12,9 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 
 --------------------
 
+# MIT Legal Forum Projects Going Forward!
 
-# Breakout Group Continue Online!
+## Breakout Group Continue Online!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8E-KHReEqk?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -24,8 +25,7 @@ Use the embedded Google form below to request an invitation to join one of the o
 * **Automated Legal Entity** [http://MITLegalForum.org/02](http://MITLegalForum.org/03)
 * **Individual Identity & Personal Data Ownership Rights** [http://MITLegalForum.org/03](http://MITLegalForum.org/03)
 
-# Notable Projects Going Forward from Media Lab Conference
-
+# Notable Ongoing Projects 
 
 ## The Computational Law - City Challenge X-Prize 
 
