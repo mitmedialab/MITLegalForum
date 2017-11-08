@@ -2,7 +2,7 @@
 
 The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  [Join the MIT Legal Forum as an Online Participant](https://goo.gl/forms/K10l4Pq0uESRUSK53) to receive announcement and updates.
 
-# Computational Law X-Prize Challenge
+# Computational Law Challenge
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-pboxAUgiUA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -10,7 +10,7 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
-# MIT Legal Forum JoinUp!
+# JoinUp and Participate!
 
 **Participate in Future Activities of the MIT Legal Forum**
 
@@ -37,23 +37,16 @@ The Women Leaders panel discussion has emerged as another noteworthy ongoing eff
 * GitHub Org: https://github.com/WomenLeaders 
 * Static Site: https://womenleaders.github.io/WL-AI-Blockchain 
 
-# JoinUp!
 
-**Participate in Future Activities of the MIT Legal Forum**
+## 2017 Slides and Archive
 
-* Use the following form to request an invitation to join one of the ongoing MIT Legal Forum breakout group online discussion and to request updates or to submit your ideas, questions, articles or other materials you wish to contribute under Creative Commons license for review and discusson by participants in the MIT Legal Forum.  
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-## 2017 Conference Slides and Archive
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 * The MIT Legal Forum **Unified Slide Deck**: [https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRxtW7yzNr8bgZeSEcdRALV9WWKssU7slyMuOFDyZFcDVfYyycm2zEO3tlHpBn452av3VSrjGj22F-I/pub?start=false&loop=false&delayms=3000)
 
 * **Archive** of [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
 
-## Volunteer and Share Papers or Articles
+## Volunteer and Share
 
 **Join the MIT Legal Forum Volunteer Team**
 
@@ -68,7 +61,7 @@ If you would like to contribute a paper, article or other relevant materials und
 * Make a pull request to our GitHub repository: [https://github.com/mitmedialab/MITLegalForum/tree/master/docs/Submissions](https://github.com/mitmedialab/MITLegalForum/tree/master/docs/Submissions)
 
 
-## Open Access to Knowledge, Tools and Practices
+## Open Knowledge and Tools
 
 The MIT Legal Forum is structured around open and public information sharing models to enable the rapid and large scale diffusion of relevant knowledge, tools and practices.  These open public information sharing models are intended to effectively catalyze and efficiently fuel a beneficial and systemic transformation of law and legal processes.
 
@@ -78,8 +71,6 @@ These information sharing models are intended to ensure any person or team apply
 
 More information on these and other methods for maintaining adherence to open public information sharing while successfully engaging a range of effective participants on law and technology can be found at: [Law.MIT.edu/Contribute](https://Law.MIT.edu/Contribute)
 
-
----------
 
 # Questions and Contact
 
