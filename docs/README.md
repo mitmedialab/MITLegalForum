@@ -5,7 +5,7 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 * **Stay informed** about MIT Legal Forum ongoing small group projects and breakout discussions [happening online](http://online.mitlegalforum.org) by registering on our Eventbrite site at: [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com). 
 * **Request an invitation** to contribute and engage in [projects and discussions](http://online.mitlegalforum.org) as an Online Participant through our [Google Intake Form](https://goo.gl/forms/K10l4Pq0uESRUSK53).
 
-# Computational Law Challenge
+# Computational Law X-Prize Challenge
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-pboxAUgiUA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -73,6 +73,7 @@ The Women Leaders panel discussion has emerged as another noteworthy ongoing eff
 
 
 **See the entire Archive** of our [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
+
 
 # Questions and Contact
 
