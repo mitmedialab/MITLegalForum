@@ -2,7 +2,12 @@
 
 The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  
 
+## Ongoing Online
+
+<img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
+
 * **Stay informed** about MIT Legal Forum ongoing small group projects and breakout discussions [happening online](http://online.mitlegalforum.org) by registering on our Eventbrite site at: [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com). 
+
 * **Request an invitation** to contribute and engage in [projects and discussions](http://online.mitlegalforum.org) as an Online Participant through our [Google Intake Form](https://goo.gl/forms/K10l4Pq0uESRUSK53).
 
 # X-Prize Challenge for Computational Law 
@@ -30,8 +35,6 @@ Use the following form to request an invitation to join one of the ongoing MIT L
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="610" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 # Past and Present Speakers
-
-<img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
 
 * [MITLegalForumOnline2017.sched.com](https://mitlegalforumonline2017.sched.com)
 
