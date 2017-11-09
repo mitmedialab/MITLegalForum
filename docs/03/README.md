@@ -1,5 +1,7 @@
 # Digital Table: 03
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PlONQNgO48g" frameborder="0" allowfullscreen></iframe>
+
 ## Topic: 
 
 * Identity and Personal Data Ownership Rights
