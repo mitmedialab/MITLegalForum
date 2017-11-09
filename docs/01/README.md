@@ -1,5 +1,7 @@
 # Digital Table: 01 
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PlONQNgO48g" frameborder="0" allowfullscreen></iframe>
+
 ## Topic: 
 * Computational Law Discussion Group
 
