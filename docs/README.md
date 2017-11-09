@@ -2,7 +2,15 @@
 
 The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  
 
-## Ongoing Online
+## Ongoing Online:
+
+Week 45 Online Hangout Livecast:
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PlONQNgO48g" frameborder="0" allowfullscreen></iframe>
+
+-------
+
+Update Video:
 
 <img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
 
