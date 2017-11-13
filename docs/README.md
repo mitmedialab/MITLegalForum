@@ -1,6 +1,6 @@
 # MIT Legal Forum
 
-The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  
+The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research [projects](https://law.MIT.edu), academic [courses](https://law.MIT.edu/learning) and convenes events in collaboration with external communities.  
 
 Use the [form below](https://goo.gl/forms/2lWMruLUBCVG80ip2) to to get in the loop on MIT Legal Forum 2017-18 activities and jump into the big discussion on **AI, Blockchain and other Automation and Autonomous Technologies** for law and legal processes:
 
