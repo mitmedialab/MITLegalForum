@@ -4,7 +4,9 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 
 Use the [form below](https://goo.gl/forms/2lWMruLUBCVG80ip2) to to get in the loop on MIT Legal Forum 2017-18 activities and jump into the big discussion on **AI, Blockchain and other Automation and Autonomous Technologies** for law and legal processes:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+--------------
 
 # 2018 MIT Computational Law Design Challenge
 
