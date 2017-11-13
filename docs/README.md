@@ -2,21 +2,11 @@
 
 The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, technology and solutions to refactor law for the digital age. The MIT Legal Forum supports MIT research and graduate education as well as conducting events in collaboration with external communities.  
 
-## Ongoing Online:
+Use the [form below](https://goo.gl/forms/2lWMruLUBCVG80ip2) to to get in the loop on MIT Legal Forum 2017-18 activities and jump into the big discussion on **AI, Blockchain and other Automation and Autonomous Technologies** for law and legal processes:
 
-Week 45 Online Hangout Livecast:
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="700" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/PlONQNgO48g" frameborder="0" allowfullscreen></iframe>
-
--------
-
-Update Video:
-
-<img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
-
-* **Stay informed** about MIT Legal Forum ongoing small group projects and breakout discussions [happening online](http://online.mitlegalforum.org) by registering on our Eventbrite site at: [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com). 
-
-# X-Prize Challenge for Computational Law 
+# 2018 MIT Computational Law Design Challenge
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-pboxAUgiUA?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -24,19 +14,19 @@ Update Video:
 * Proposal: [http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf](http://mitlegalforum.org/Paper/Computational_Law-MIT_Media_Lab.pdf)
 * Session Notes: [https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA](https://docs.google.com/document/d/15dzTAS5IM51pAImhYtcqoR-EYdNq9xeceMDYMOJ5KkA)
 
-# JoinUp and Participate!
+# Participate Online
 
-**Participate in Future Activities of the MIT Legal Forum**
+<img width="600" alt="screen shot 2017-11-08 at 1 43 53 am" src="https://user-images.githubusercontent.com/2357755/32535044-690c5a70-c426-11e7-8538-ad3d4bd1ddf0.png">
+
+Sign up through Eventbrite at [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com) to join one of the ongoing online breakout groups listed on our sched at [Online.MITLegalForum.org](http://online.mitlegalforum.org) on selected Thursdays at 5:30 PM Easter / 2:30 PM Pacific.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8E-KHReEqk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Sign up through Eventbrite at [MIT-Legal-Forum-Online-2017.EventBrite.com](https://mit-legal-forum-online-2017.eventbrite.com) to join one of the ongoing online breakout groups listed on our sched at [Online.MITLegalForum.org](http://online.mitlegalforum.org), including:
-
-* **Computational Law** [http://MITLegalForum.org/01](http://MITLegalForum.org/01)
-* **Automated Legal Entity** [http://MITLegalForum.org/02](http://MITLegalForum.org/02)
-* **Individual Identity & Personal Data Ownership Rights** [http://MITLegalForum.org/03](http://MITLegalForum.org/03)
-
 <div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/mit-legal-forum-online-breakout-groups-tickets-37953670450?ref=eweb" frameborder="0" height="1000" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+
+**Kick-Off MIT Legal Forum Online Breakouts Livecast from Harvard Law School:**
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PlONQNgO48g" frameborder="0" allowfullscreen></iframe>
 
 # Past and Present Speakers
 
