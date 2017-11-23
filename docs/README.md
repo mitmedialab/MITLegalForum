@@ -80,6 +80,9 @@ The Women Leaders panel discussion has emerged as another noteworthy ongoing eff
 
 **See the entire Archive** of our [Conference Site for The MIT Legal Forum on AI & Blockchain October 30 & 31, 2017 at the MIT Media Lab](2017-archive.md)
 
+# Live Events
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nM_6EsdYwg0" frameborder="0" allowfullscreen></iframe>
 
 # Questions and Contact
 
