@@ -4,4 +4,4 @@ The [MIT Legal Forum](http://mitlegalforum.org) generates and fosters ideas, tec
 
 * We are in the planning stage for the 2018 MIT Legal Forum, coming this fall.
 
-* Archive of the [2017 MIT Legal Forum](2017-MITLegalForum.html)
+* Archive of the [2017 MIT Legal Forum](http://mitlegalforum.org/2017-MITLegalForum.html)
